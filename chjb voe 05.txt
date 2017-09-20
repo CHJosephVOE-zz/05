@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "p0cket-stamper",
+  "private_key_id": "7d22b1c60fc4ef0154fd04e75a758e15c77cf936",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqKxP2M/xU1Z4P\nFSBasZ32gcI5XDMC0RBB3EOakl7G2hxeYCV4lEi8Qo6kE5mEwoGLZ74FgRGVbNQR\nTXgsR2UenAPFqvJ7qpiBCB07iwDXVzRN82aCe38A830m/IdHd9SLdabhDojeFzqD\nVhu6i5tly5Hwh7CHqvTQ+Y9P1cOITh8a2HKXe6W/OSkqQb7VJWzD73jbd566g9Dp\n++pkeQwcWmHvu/rUmBZ8fJQvWtyy6dFbpjN/rajPikV/EVDOHlUsUlPuFFZXDO9s\nK0AjIY0eTkRum7FfbVZtgXkSPdOHewkdemMuz/s78eLu+Y+qjon/zPir7eZbZYmR\ncSp884czAgMBAAECggEAFVmvo3sE9HqTiOjpqky8DlWxfL4+AuMgMGM7yC+yhy3j\n0/jUOrtqyilqTtkhWzAxo2qyGMFc52vuykz3VaGPj7ZGHY2ZPD2R7NPhIbtgW6RW\nrQEWTNYZ1TtiPyX9WHuHG12jlnvbCE0kdkizf0WiNbTDlsjaM+trKV0RHL8r9/SW\nPtepMfIfG9tyxA4aG2155mQbR7PeIHKf/618BSKGQZCuC4pvj3QfhSK20un5CD7e\neLdiR521uNKSgCOUHpNmo0dRBlbclhp8ERFRZYB86RLUlUlZQyf+gF03keHy4+nq\nvrbtqKzLIGcrKEse+aMqgIpxTV7FiAW3JqkVoqMSwQKBgQDTV+dIeO0xfm2arr51\nVcVPewevnnJ0GGiLSniDil77IpWstFCdAVSztuFeUlzAZyIs2vlXMKJGWfPZ17Up\nD9ekBv7Lu1WaUJSbLwCBrOGVehnEbheXcLNIe8DnXrY+1MhMzeiZeIuOirQ0CgEw\nVjBe00J5leTp+Fy05rhqkXGkWQKBgQDOH+jR0P5ArQ9YiIU2WtEmVp/raHeuQXHk\nX59uaJKCbFTDoTCn8nKy+VfBf3wEEUCFlvNWIkuvd4eJ/0H0HoOiXg2I2jR+bxt7\n2sieHq95e0h09NUtLZPFXxoHKim9xxi6oXXsGH1Xu8E+/y0IDJx5BEmD8t9tAMJe\nzf+5iS/GawKBgQCJP0yzg9SFj9Ud3t1Q1aKNOxiCtCMfwboiuvoIcpO8A3mv7mlr\njLG1A87XsiUJzfAjsRC7zpmTllcF4U+EmwUvQFu3crDkxe+714o8rEjTCbgyGEy5\nzDahm7xqhNdVdlmdhxrGj8IRj4H3SYf8G/zNl+RTkURXrTKHSE365vkmAQKBgQDB\nJp2gn1rheEn9CFDsEkYSyvGoQoiDvcff3MslRtCjbqgveYiCmGpq08QsCi5IEXKI\nvF7hw9lwX22fHpbLDx0CtWexaefu4ma6tNVxdgewqpnHHvX0E9V5Chj1xci/kSXX\nHR3HU1uBLutzAONNu6OUszPAdYJwPlnlRNvxHGCsaQKBgCSizQkbioRZ11W2A3k4\nVUbJ8t2uHfLQ9kZrYGMtsEarZWePuRQr2UW4FOf1kklaLRtINRmReP/+epHgfsCv\nCGqi1ZuJdfwBUR0CUgvIbgpgzC/ulgrROg95UlnmvgWjj2uh/QFvk0ldo+zPJDd4\n1UV444u+H3Q6TR7q1ehfRGJO\n-----END PRIVATE KEY-----\n",
+  "client_email": "p0cket-stamper@appspot.gserviceaccount.com",
+  "client_id": "114257580640086842729",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/p0cket-stamper%40appspot.gserviceaccount.com"
+}
